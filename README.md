@@ -92,7 +92,7 @@ Jika Anda ingin memberikan masukan atau berkontribusi, silakan fork repository i
 
 ## 📧 **Kontak**
 Jika ada pertanyaan lebih lanjut, silakan hubungi melalui:  
-- **Email:** muammarkurniawan@example.com  
+- **Email:** amarpamulang@gmail.com  
 
 ---
 
