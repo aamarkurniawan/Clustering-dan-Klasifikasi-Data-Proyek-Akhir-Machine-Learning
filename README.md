@@ -28,17 +28,18 @@ Proyek ini adalah implementasi tugas akhir mata kuliah *Machine Learning* di Uni
 
 ---
 
-## 🗂 **Struktur Proyek**
 📁 Proyek_Machine_Learning  
 │  
-├── clustering_result.csv        # Dataset hasil Clustering  
-├── README.md                    # Dokumentasi proyek ini  
-├── RandomForest_Model.pkl       # Model Random Forest terbaik setelah tuning  
+├── clustering_result.csv               # Dataset hasil Clustering  
+├── IndonesiaEducation.csv              # Dataset mentah awal  
 │  
-└── Notebooks/  
-    ├── Clustering.ipynb         # Notebook untuk implementasi Clustering  
-    └── Classification.ipynb     # Notebook untuk implementasi Klasifikasi  
-
+├── [klasifikasi]_submission_akhir_mu'ammar_kurniawan.py   # Script Python untuk Klasifikasi  
+├── [clustering]_submission_akhir_bmlp_mu'ammar_kurniawan.py # Script Python untuk Clustering  
+│  
+├── [Klasifikasi]_Submission_Akhir_Mu'ammar_Kurniawan.ipynb  # Notebook Klasifikasi  
+├── [Clustering]_Submission_Akhir_BMLP_Mu'ammar_Kurniawan.ipynb # Notebook Clustering  
+│  
+└── README.md                          # Dokumentasi proyek ini  
 
 ---
 
